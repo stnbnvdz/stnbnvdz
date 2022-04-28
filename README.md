@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm John Austin Benavidez</h1>
 <h3 align="center">Lifelong Learner with experience in Software Development, Software Manual and Automation Test Engineering. Currently studying Java to get back to fulltime programming</h3>
 
-- ⚡ You can checkout my website portfolio at [austinbenavidez.live](austinbenavidez.live)
+ <!-- ⚡ You can checkout my website portfolio at [austinbenavidez.live](austinbenavidez.live) -->
 
-- 📝 I write articles on [austinbenavidez.live/blog](austinbenavidez.live/blog)
+<!-- 📝 I write articles on [austinbenavidez.live/blog](austinbenavidez.live/blog) -->
 
 - 📫 How to reach me **jaustinbenavidez@gmail.com**
 
-- 📄 Know about my experiences [austinbenavidez.live/resume](austinbenavidez.live/resume)
+<!-- 📄 Know about my experiences [austinbenavidez.live/resume](austinbenavidez.live/resume) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
