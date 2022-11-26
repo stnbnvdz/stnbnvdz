@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Austin Benavidez</h1>
+<h1 align="center">Hi 👋, I'm Austin Benavidez</h1>
 <h3 align="center">Lifelong Learner with experience in Software Development, and Test Automation Engineering.</h3>
 
  <!-- ⚡ You can checkout my website portfolio at [austinbenavidez.live](austinbenavidez.live) -->
